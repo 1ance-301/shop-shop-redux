@@ -14,7 +14,7 @@
   * [Questions](#questions)
 
   ## Installation
-  Deployed Website: https://thawing-badlands-18154.herokuapp.com/
+  Deployed Website: https://floating-tor-98375.herokuapp.com/
   Github Repository: https://github.com/1ance-301/shop-shop-redux.git
 
   ## Usage
