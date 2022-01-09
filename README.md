@@ -18,7 +18,7 @@
   Github Repository: https://github.com/1ance-301/shop-shop-redux.git
 
   ## Usage
-  
+  <img width="1440" alt="Screen Shot 2022-01-09 at 12 45 03 PM" src="https://user-images.githubusercontent.com/87950314/148694189-6db14d10-d932-48ef-b25d-c7e3ffbb5e79.png">
 
   ## License
   Licensed under the ISC license.(https://opensource.org/licenses/ISC)
